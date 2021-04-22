@@ -1,0 +1,147 @@
+body {
+	     background-color: white;     text-align: center;     height: 100%;     width: 100%;     overflow: hidden; 
+}
+h1 {
+	position: relative;
+	 text-align: center;
+}
+
+.wiosna {
+	position:relative;
+	
+	width: 300px;
+	height: 500px;
+	 margin: 50px;
+	border: 5px white;
+	
+	.wiosnajeden {
+	background-color: green;
+}
+
+
+
+
+}
+
+.zolty {
+	background-color: yellow;
+	width: 300px;
+	height: 50px;
+	position:relative;
+	bottom: 10px;
+	
+}
+
+.lato {
+	position:relative;
+	
+	width: 300px;
+	height: 500px;
+	 margin: 50px;
+	border: 5px white;
+	
+	left: 350px;
+	bottom: 550px;
+}
+
+.zielony {
+	width: 300px;
+	height: 50px;
+	position:relative;
+	bottom: 10px;
+	background-color: #9ffb88;
+}
+
+.jesien {
+	position:relative;
+	
+	width: 300px;
+	height: 500px;
+	 margin: 50px;
+	border: 5px white;
+	
+	left: 700px;
+	bottom: 1100px;
+}
+
+.pomaranczowy {
+	background-color: orange;
+	width: 300px;
+	height: 50px;
+	position:relative;
+	bottom: 10px;
+	
+}
+
+.zima {
+	position:relative;
+	
+	width: 300px;
+	height: 500px;
+	 margin: 50px;
+	border: 5px white;
+	
+	
+	
+	left: 1050px;
+	bottom: 1650px;
+}
+
+.niebieski {
+	background-color: #84eeff;
+	width: 300px;
+	height: 50px;
+	position:relative;
+	bottom: 10px;
+	
+}
+
+	img {
+		position: relative;
+	width: 300px;
+	height:300px;
+	
+}
+
+h2
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+.opiswiosna {
+	background-color: yellow;
+	width: 300px;
+	height: 60px;
+	position:relative;
+	bottom: 10px;
+}
+
+.opislato {
+	background-color: #9ffb88;
+	width: 300px;
+	height: 60px;
+	position:relative;
+	bottom: 10px;
+}
+
+.opisjesien {
+	background-color: orange;
+	width: 300px;
+	height: 60px;
+	position:relative;
+	bottom: 10px;
+}
+
+.opiszima {
+	background-color: #84eeff;
+	width: 300px;
+	height: 60px;
+	position:relative;
+	bottom: 10px;
+}
